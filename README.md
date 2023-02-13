@@ -4,8 +4,6 @@
 Full Stack Developer
 --------------------
 
-I've been learning to code for 9 months in full stack development bootcamp. and very passionate in the front-end web development.
-
 * 🌍  I'm based in california
 * ✉️  You can contact me at [smirnakhouri@yahoo.com](mailto:smirnakhouri@yahoo.com)
 * 🧠  I'm learning redux
