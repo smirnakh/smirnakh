@@ -1,4 +1,5 @@
 ### Hi there 👋
+![juicy-girl-working-at-home](https://user-images.githubusercontent.com/99379073/218590849-c968d10e-ca4a-4a8f-ba81-8be40ea23f21.gif)
 
 <!--
 **smirnakh/smirnakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
