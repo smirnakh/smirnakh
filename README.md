@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Smirna Khouri
 <img align="right" src="https://user-images.githubusercontent.com/99379073/218591700-82b6cea6-68d4-49e1-9901-942b91a2aa1d.gif" width="400" height="320" />
 
-Full Stack Developer
+Full Stack Web Developer
 --------------------
 
 * 🌍  I'm based in california
