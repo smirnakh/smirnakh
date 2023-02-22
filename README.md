@@ -3,7 +3,7 @@
 
 Full Stack Web Developer
 --------------------
-i have a  passion for creating websites and applications that are both visually appealing and user friendly
+I have a  passion for creating websites and applications that are both visually appealing and user friendly
 * 🌍  I'm based in california
 * ✉️  You can contact me at [smirnakhouri@yahoo.com](mailto:smirnakhouri@yahoo.com)
 * 🧠  I'm learning redux
