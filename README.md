@@ -6,7 +6,6 @@ Full Stack Web Developer
 I have a  passion for creating websites and applications that are both visually appealing and user friendly
 * 🌍  I'm based in california
 * ✉️  You can contact me at [smirnakhouri@yahoo.com](mailto:smirnakhouri@yahoo.com)
-* 🧠  I'm learning redux
 * 🤝  I'm open to collaborating on react projects
 * ⚡  I speak English and Arabic
 
